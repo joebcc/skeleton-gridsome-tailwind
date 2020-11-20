@@ -1,7 +1,7 @@
 # Skeleton template using Grisome, TailWind, and GSAP
 
 This is the project you get when you run `gridsome create new-project`,
-with some added bonuses: *TailWind*, PurgeCSS, and *GSAP*
+with some added bonuses: *TailWind*, *PurgeCSS*, and *GSAP*
 
 ### 1. Install Gridsome CLI tool if you don't have
 
